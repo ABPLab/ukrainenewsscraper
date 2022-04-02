@@ -1,0 +1,94 @@
+Fedorov, il ministro di Kiev che guida il fronte cyber: «I russi sopraffatti dalla nostra armata digitale» – L’intervista
+
+Prima che i tank russi arrivassero in Ucraina, il ministro classe 1991 doveva occuparsi della digitalizzazione del Paese. Ora è il generale dell’It Army che compie attacchi informatici alle società e banche russe
+Mykhailo Fedorov è nato il 21 gennaio del 1991. Pochi mesi dopo il Parlamento ucraino avrebbe dichiarato l’indipendenza dall’Unione Sovietica. Per lui l’Ucraina è Ucraina. Non è mai stata Russia, non è mai stata un’invenzione di Lenin, non è mai stata niente di tutto quello che Vladimir Putin ha usato per giustificare l’invasione delle truppe di Mosca. Nel 2019 Fedorov è entrato nella squadra scelta da Volodymyr Zelensky per formare il suo governo. Il suo incarico era quello di ministro alla trasformazione digitale ma da quando è iniziata la guerra in Ucraina è diventato il generale che guida tutte le operazioni sul fronte digitale. È lui che ha lanciato l’IT Army, l’esercito di hacker che lavora per l’Ucraina. È lui che ha chiesto a Elon Musk di aprire a tutto il Paese la rete di satelliti Starlink per restare connessi a internet. Ed è sempre lui che ha fatto pressione sulle Big Tech per chiudere le porte alla Russia.
+Cosa significa per te Ucraina?
+«Io ho la stessa età del nostro Parlamento. L’Ucraina è il mio Paese. Non riesco a immaginare di vivere da qualche parte fuori. È la mia patria. È una terra di libertà. Ed è una terra di persone creative e coraggiose. Sono orgoglioso di essere ucraino. L’indipendenza significa molto per me».
+Dov’eri
+il giorno in cui è iniziata l’invasione?
+«Ero
+a casa con la mia famiglia. L’invasione è iniziata al mattino
+presto. Eravamo tutti insieme in quel momento».
+In queste settimane hai guidato il fronte della guerra digitale. Quando sei entrato nel governo, i tuoi progetti erano diversi. Cos’è il piano State in Smartphone?
+«State in smartphone è un progetto avviato dal presidente Zelensky. È una delle sue promesse durante la campagna elettorale e una delle prime cose che ha iniziato a fare dopo essere diventato presidente. Questo progetto è in realtà alla base del motivo per cui nasce il ministero della Trasformazione Digitale. L’obiettivo principale è un’interazione facile, rapida ed efficace con lo Stato per cittadini e imprese tramite smartphone, tablet o laptop senza burocrazia e code. Abbiamo un obiettivo più che ambizioso: trasferire tutti i servizi pubblici in modalità online entro il 2024». 
+A
+che punto era questo progetto prima della guerra?
+«Stava
+andando bene. Avevamo ottenuto diversi risultati».
+Come
+è cambiato il tuo lavoro con la guerra?
+«Il processo di digitalizzazione continua anche sotto gli attacchi dei missili e in mezzo a una guerra su vasta scala con la Russia. La nostra app Diia ora non si occupa solo di raccogliere documenti digitali o consentire l’identificazione dei cittadini ai posti di blocco. È anche un canale per sostenere finanziariamente il nostro esercito tramite le donazioni, fornisce report accurati sul sul movimento delle truppe militari e consente l’accesso 24 ore su 24, 7 giorni su 7 a TV e radio. Inoltre, sempre con Diia, c’è anche la possibilità di prova l’esperienza di un operatore di droni Bayraktar. Abbiamo lanciato il minigioco eBayraktar».
+Quali
+sono ora i servizi digitali più richiesti dalla popolazione?
+«Di sicuro ci sono tutti i servizi per l’identificazione della persona attraverso i documenti digitali. In queste settimane abbiamo lanciato una nuova piattaforma per i documenti digitali: si chiama eDocument, funziona anche senza internet e permette di raccogliere i dati più importanti per i cittadini. C’è poi il portale ePidtrymka: qui invece i cittadini dai fronti più pericolosi della guerra possono chiedere assistenza statale con pochi click. In questi giorni abbiamo aperto anche un nuovo registro digitale dedicato agli imprenditori: al momento i cittadini ucraini hanno già aperto mille attività. L’ultimo servizio che abbiamo creato, sempre attraverso l’app Diia, permette ai cittadini di segnalare i danni causati dalla guerra alle loro proprietà e richiedere una compensazione da parte dello Stato».
+Come
+fate a difendere tutto questo sistema dagli attacchi hacker?
+«La
+sicurezza informatica e la protezione dei dati in tempo di pace e in
+tempo di guerra sono molto diverse. Non solo dobbiamo resistere a
+numerosi attacchi DDoS e vari tentativi di sabotaggio, ma anche
+garantire la sicurezza fisica dei registri governativi. Abbiamo
+dovuto organizzare urgentemente una posizione sicura per i server e
+per le strutture dove vengono conservati i backup. Questa forse è la
+parte più difficile: garantire la disponibilità del servizio e la
+migrazione dei dati in caso di emergenza. Ma finora abbiamo avuto
+successo».
+Come
+è nata la strategia per fare pressione sulle Big Tech?
+«Fin dal primo giorno di guerra, ci siamo resi conto che dovevamo elaborare una strategia completamente nuova per contrastare l’aggressione militare russa. Una guerra moderna richiede soluzioni moderne. Questa è anche una guerra tra passato e futuro. Il passato è pieno di equipaggiamento militare, goffi carri armati e una propaganda fuori controllo. Il futuro è tutto sulla tecnologia. Per questo motivo una nuova strategia militare deve includere nuove soluzioni. È così che mi è venuta l’idea di un blocco digitale. Questa strategia di embargo punta a bloccare la Russia in ogni modo possibile. Credo alla fine la tecnologia vincerà la guerra».
+Qual
+è l’obiettivo di tutta questa campagna?
+«L’impatto
+della guerra non deve essere avvertito solo dal governo russo ma
+da ogni cittadino russo. Vogliamo che i russi si muovano e comincino
+a protestare contro il regime di Putin perché sta uccidendo non solo
+i bambini ucraini, ma anche l’economia russa. Ora il mondo è diviso
+in bianco e nero. Siamo convinti che se un’azienda sceglie di
+collaborare con la Federazione Russa, sceglie il lato oscuro e
+supporta il sangue, la morte dei bambini e la distruzione causata dai
+missili».
+Con
+quante aziende avete parlato per imporre questo blocco?
+«A dire il vero questa “diplomazia della Silicon Valley” è cominciata ben prima della guerra. Dall’inizio di questo governo abbiamo cercato ottenere per l’Ucraina servizi che fossero più personalizzati. Nel settembre 2021 ho partecipato a una visita molto importante negli Stati Uniti insieme al presidente Zelensky. Abbiamo incontrato molti Ceo delle migliori aziende di tecnologia del mondo e ora questi contatti ci hanno aiutato a imporre sanzioni alla Russia. Questo processo è stato avviato in modo rapido ed efficiente, visto che avevamo già stabilito creato un canale con Apple, Google e Meta. Ad oggi, abbiamo contattato più di 500 aziende di tecnologia».
+Quali
+sono stati i risultati? 
+
+«Dipende
+molto dalle aziende. Alcune hanno mostrato un sostegno e una
+posizione significativa interrompendo tutti i tipi di operazioni in
+Russia e donando somme di denaro enormi per sostenere l’esercito
+ucraino o per far fronte ai bisogni umanitari. Altre aziende cercano
+di rimanere invece in una “zona grigia”. Ad esempio hanno
+dichiarando di aver interrotto le operazioni di esportazione e
+importazione, annunciando ovunque di aver interrotto il commercio con
+la Russia. Ma poi si è scoperto che vendono ancora prodotti lì. E
+poi ci sono le aziende che cercano di ignorare tutto e rimanere in
+silenzio il più possibile. Ma non è più il momento di tacere. Oggi
+devi scegliere: o continui a finanziare gli omicidi dei bambini
+ucraini o fai di tutto per fermarli».
+Elon
+Musk ha messo a disposizione la sua rete di satelliti Starlink per
+mantenere la connessione dopo la vostra richiesta su Twitter. Come è
+nata questa collaborazione?
+«Il nostro ministero era in dialogo con il team di SpaceX prima della guerra. Stavamo discutendo insieme di alcuni progetti. Quello che si è visto sui social è solo la punta dell’iceberg di un lungo lavoro cominciato prima della guerra».
+Qual
+è lo stato della connessione Internet in Ucraina?
+«La Russia sta distruggendo tutte le nostre infrastrutture per lasciare il territorio dell’Ucraina senza comunicazioni: l’obiettivo è cancellare la copertura di rete mobile, le trasmissioni radiofoniche e televisive. Ora la connessione internet è debole soprattutto nelle zone dove le operazioni militari sono più attive. Questo succede soprattutto nella regione di Kiev, in luoghi come Irpin, Bucha, Gostomel o Vorzel. A volte la connessione non riesce ad essere di alta qualità nemmeno a Kharkiv, Cherson e Chernihiv. A Melitopol invece la connessione è molto bassa. Ora tutti gli operatori statali per le telecomunicazioni stanno lavorando per mantenere il livello di connessione più alto possibile».
+Chi
+si occupa di riparare e tenere in funzione tutte queste strutture?
+«I nostri specialisti sono dei veri eroi. Riparano le infrastrutture danneggiate e ripristinano il segnale davvero in fretta. Molti lavorano anche sotto i bombardamenti. Alcuni di loro sono morti mentre portavano a termini i loro compiti. Oltre a tutto questo lavoro abbiamo fornito all’Ucraina la connessione Starlink in un modo che non si era mai visto prima. Migliaia di terminali Starlink operano dove ci sono problemi di connessione e in aree remote. Questa tecnologia aiuta a rimanere connessi a internet anche in situazioni specifiche, come nel caso di ospedali, infrastrutture strategiche o aziende che si occupano di tecnologia». 
+Un
+fronte importante in questa guerra digitale è quello degli attacchi
+hacker. Nei primi giorni di guerra avete aperto l’IT Army, un
+progetto aperto a chiunque avesse competenze informatiche e volesse
+contribuire ad attaccare la Russia.
+«È come ho già detto: la guerra moderna richiede soluzioni moderne. L’Ucraina è una terra di talenti digitali ed è un crimine non usarli. Nei primi giorni di guerra, ho ricevuto così tante offerte di aiuto dalle aziende IT che la mia casella di posta è quasi esplosa. Abbiamo deciso di rafforzare il nostro fronte informatico con i volontari. La Russia attacca le strutture del nostro governo dal 2014, prima di questa guerra noi non abbiamo mai risposto a questi attacchi. Ci siamo solo difesi. Dal 24 febbraio abbiamo iniziato ad attaccare anche noi».
+I
+volontari dell’IT Army sono migliaia: come li coordinate?
+«Non posso rivelare tutto. Alcuni obiettivo però sono pubblici e si possono vedere nella chat aperta di Telegram IT Army. Questo esercito porta avanti attacchi cyber e DDoS alle strutture informatiche di società commerciali russe (Gazprom, Lukoil), alle banche (Sberbank, VTB, Gazprombank) e anche ai portali del governo (Servizio Civile russo, Cremlino e Parlamento)».
+Pensi che la Russia sia attrezzata per vincere una cyberwar?
+«Quello che so per certo e che posso condividere con voi è che la Russia subisce appieno l’impegno del nostro It Army. Penso che la nostra guerra cibernetica sia molto piu efficiente».
+Come
+sarà l’Ucraina tra un mese?­
+«Non voglio indovinare o fare previsioni su cosa accadrà tra una settimana o un mese. Io e la squadra del ministero, i volontari e l’Esercito continueremo a fare il nostro lavoro per avvicinarci alla vittoria. Sono abbastanza sicuro che vinceremo. Prima o dopo. Meglio prima».
+Foto di copertina: Elaborazione grafica di Vincenzo Monaco

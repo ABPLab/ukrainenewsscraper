@@ -1,0 +1,36 @@
+Italia a rischio cyberwar? Baldoni (Acn): «I target più a rischio sono le aziende che hanno delocalizzato in Ucraina» – L’intervista
+
+Roberto Baldoni è il direttore dell’Autorità per la cybersicurezza nazionale. Questa struttura, aperta lo scorso dicembre, lavora per tutelare privati e pubbliche amministrazioni dai cyberattacchi
+Prima il blocco di Kaspersky, poi l’attacco a Trenitalia rivendicato dal gruppo Hive. In mezzo tanti piccoli attacchi che passano sotto traccia perché riguardano soggetti troppo piccoli per fare notizia. La rete è agitata e mentre la Russia è bersagliata da attacchi hacker più o meno amatoriali, diversi gruppi criminali stanno sfruttando la nebbia della guerra digitale per attaccare i loro obiettivi. La cybersecurity è diventata uno degli aspetti più importanti di questa guerra, sia per quanto riguarda Russia e Ucraina che per le possibili conseguenze in Italia. Roberto Baldoni è il direttore generale dell’Autorità per la cybersicurezza nazionale (Acn), una struttura nata lo scorso dicembre per aumentare le capacità di difesa del Paese. Il punto più difficile in questo momento è capire da dove arrivano questi attacchi. Solo dal 14 gennaio l’Acn ha inviato circa ottomila allerte di sicurezza. 
+Nel mezzo di questa cyberwar, quali sono i rischi per l’Italia?
+«In
+questo momento i target più a rischio sono le aziende italiane che
+hanno delocalizzato in Ucraina. Se viene attaccata la società che
+sta in Ucraina, il malware che viene introdotto all’interno nei
+sistemi informatici di questa società potrebbe entrare nel nostro
+spazio cibernetico. La società Ucraina attaccata potrebbe avere
+relazioni con altre aziende straniere, con cui magari condivide delle
+strutture strategiche come i software che si gestiscono la sicurezza
+informatica. Questo può succedere per l’Italia come per qualsiasi
+altro Paese».
+
+Quali sono i soggetti più vulnerabili?
+«Dipende
+da chi fa l’attacco. Se parliamo di un governo, l’obiettivo verso gli
+altri Paesi sono le infrastrutture essenziali: in Italia sarebbero i
+soggetti per il perimetro di sicurezza nazionale cibernetica. Se
+parliamo invece di cybercriminali, allora l’obiettivo possono essere
+anche i dati dei singoli utenti o le piccole e medie imprese,
+ovviamente in questo ultimo caso il tentativo sarebbe quello di
+chiedere un riscatto».
+
+Il governo Draghi ha firmato per togliere l’antivirus Kaspersky dai sistemi della pubblica amministrazione. Che problemi può avere chi lo ha installato sul suo pc?
+«Questo antivirus è un prodotto che nel tempo ha dimostrato un’ottima qualità. In un’analisi del rischio, la presenza di Kaspersky in una situazione di crisi come quella attuale aumenta però il pericolo legato ad una possibile ingerenza governativa sulla azienda. Siamo tutti coinvolti in questo spazio digitale: ci sono dei rischi che vanno valutati e si devono prendere opportune contromisure. L’antivirus per sua struttura è un programma che ha un accesso completo alla macchina del suo utilizzatore: è quindi una possibile vulnerabilità del sistema». 
+Quanto ci vorrà a rimuovere Kaspersky dalle reti della pubblica amministrazione?
+«Dipende dalle amministrazioni, da quante licenze hanno e da come sono utilizzate. Un’amministrazione dove tutte le licenze si riferiscono a un contesto centralizzato ci metterà meno rispetto ad una amministrazione che è più distribuita sul territorio. Parliamo di tempi molto brevi per la prima, un po’ più lunghi per l’altra tipologia. Già molte amministrazioni hanno cominciato questo processo. L’importante nella operazione di diversificazione è di non rimanere mai senza una protezione di sicurezza per il sistema». 
+Nel caso di un attacco informatico, quali sono i punti più sensibili nella nostra rete?
+«Sono molti. Tra quelli più rilevanti ci sono gli Internet Exchange Point. Sono nodi in cui si incontrano le reti di diversi provider: qui vengono scambiati i pacchetti di informazioni che servono per raggiungere il sito web che si vuole andare a visitare. È un obiettivo molto sensibile perché se compromesso può far saltare l’accesso alla rete o spostare il traffico dati verso server ostili. Un altro obiettivo sensibile è il sistema dei DNS, quello che permette di avviare la connessione tra un sito, come può essere www.open.online, e l’indirizzo Ip al quale il server è connesso. L’attacco di questo sistema potrebbe rendere inaccessibile l’accesso a siti e a servizi software. Altra infrastruttura importante è quella satellitare: in questo caso abbiamo già visto degli attacchi hacker nel corso di questo conflitto». 
+Come funziona la difesa italiana per la cybersicurezza?
+«Noi come Agenzia abbiamo in carico la resilienza nazionale. Non lavoriamo sulla parte di attacchi ma organizziamo tutta la struttura di tipo difensivo. La polizia postale, i carabinieri e la guardia di finanza portano avanti le investigazioni cyber. Il COR, il Comando per le operazioni in rete della Difesa, si occupa invece delle operazioni di difesa, anche attiva, delle infrastrutture militari proprie e nei teatri di conflitto. Poi c’è la parte legata alle operazioni non convenzionali in rete che invece è di competenza del comparto di intelligence».
+L’Acn è appena nata, quali sono i suoi obiettivi?
+«Dal punto di vista organizzativo siamo nati il 27 dicembre e nel giro di 50 giorni abbiamo fatto partire il primo bando per l’assunzione di personale: la nostra missione è quella di crescere e strutturarci sempre meglio proprio per rispondere agli obiettivi che ci hanno dato. Fra questi c’è la creazione del Centro di valutazione e certificazione nazionale, centrare alcuni obiettivi del Pnrr e rafforzare tutta la parte di resilienza della nostra infrastruttura nazionale. C’è un immenso lavoro da fare». 

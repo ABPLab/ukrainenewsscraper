@@ -1,0 +1,25 @@
+Il video dei presunti sabotatori ucraini uccisi dai separatisti a Donetsk: è stato manipolato
+
+I separatisti affermano di aver neutralizzato un tentativo di sabotaggio degli ucraini il 18 febbraio, ma il video è stato creato giorni prima e modificato con un audio del 2010
+Circola un video che riprenderebbe un’azione militare ad opera di due sabotatori delle forze ucraine, ma che parlavano in polacco, nel tentativo di far esplodere bombole di cloro a Horlivka (o Gorlovka), nella Regione di Donetsk. Condiviso per la prima volta da un canale Telegram dei separatisti del Donbass, e immediatamente diffuso dai media russi, i metadati hanno rivelato tutt’altra storia, riscontrando una manipolazione evidente come dimostrato anche dai colleghi di Bellingcat. Non è il primo video manipolato o realizzato in tempi sospetti (ne parliamo qui).
+Per chi ha fretta
+Analisi
+Ecco una delle condivisioni del video via Facebook, dove Felice pone una domanda: «False flag?».
+Ecco il video pubblicato da un canale Youtube il 18 febbraio 2022:
+Il video è stato condiviso per la prima volta il 18 febbraio 2022, alle 13:01 ora italiana, nel canale Telegram della “Milizia Popolare del DPR” (“Народная милиция ДНР”).
+In un post precedente, sempre delle 13:01 ora italiana, il gruppo afferma di aver fermato un tentativo di sabotaggio, uccidendo due militari. Uno di questi, secondo il comunicato, aveva addosso una videocamera che avrebbe registrato l’intera operazione.
+Il canale Telegram dell’agenzia russa TASS (TACC) aveva diffuso la notizia del presunto sabotaggio sventato attraverso un post pubblicato alle 13:09 (ora italiana), pochissimi minuti dopo la pubblicazione del video.
+Il video è stato successivamente diffuso, la sera dello stesso giorno, durante la trasmissione politica russa “60 minuti” (“60 минут”).
+Scaricando il video dal canale Telegram dei separatisti, i metadati contenuti al suo interno rivelano alcuni particolari.
+Risulta che il video non sia stato prelevato così com’era da un dispositivo di ripresa, ma montato attraverso l’utilizzo di Adobe Premiere Pro CC 2018. Nel montaggio è stato inserito un altro video avente nome file «M72A5 LAW and APILAS live fire.mp4» che risulta essere lo stesso titolo di un video pubblicato su Youtube il 24 aprile 2010, ripreso in Finlandia.
+Nel video diffuso dai canali separatisti si sentono due esplosioni, le stesse che si sentono al minuto 1:52 del video del 2010. Un confronto degli audio è stato pubblicato da August Graham via Twitter.
+
+Il tuo browser non supporta il tag iframe
+La parte del video dove si sentono le due esplosioni è stata tagliata nel servizio di 60 Minuti.
+Nel punto 2 evidenziato nello screenshot dei metadati è presente il percorso del file dove è stato salvato il progetto di Adobe Premiere. Ciò che risulta strano è che rimandi a una cartella datata 2 febbraio 2021. Il nome file, invece, la data del 4 febbraio 2021 e la sigla “DRG” (“ДРГ”):
+\?\M:\Проекты\2021\02 Февраль\2021-02-04 ДРГ.prproj
+Tale sigla indica “gruppo di sabotaggio e ricognizione” (“Диверсионно-разведывательная группа”). La stessa sigla è presente in un altro punto dei metadati, quello relativo al percorso del file realizzato nel 2022:
+\?\M:\Проекты\2022\02 Февраль\2022-02-08 ДРГ++.prproj
+Il video dura appena 1 minuto e 24 secondi, una brevissima scena di quello che sarebbe accaduto. Non viene mostrato alcun elemento utile per riconoscere il luogo del presunto evento. Infine, ad oggi i canali filorussi non hanno mostrato alcun elemento per dimostrare che abbiano ucciso e recuperato l’attrezzatura di due combattenti uccisi durante il presunto scontro.
+Conclusioni
+Il “comunicato urgente”, diffuso dal canale Telegram dei separatisti, riporta un’operazione di antisabotaggio contro un gruppo ucraino formato da militanti polacchi. Il comunicato fa intendere che il fatto sia avvenuto in giornata, 18 febbraio 2022, o nelle ultime ore precedenti. Secondo i metadati, il file risulta creato in data 8 febbraio 2022. Oltre a non avere completa certezza dell’origine reale del video, questo risulta tuttavia di fatto alterato, modificato tramite Adobe Premier per aggiungere il suono di due esplosioni.
