@@ -1,0 +1,60 @@
+
+      Russian, Belarusian hackers target Ukraine in phishing, Google says
+  
+
+
+      Follow our news
+  
+Main navigation
+
+
+      World
+  
+
+
+      Follow our news
+  
+Advertisement
+Advertisement
+
+
+      World
+  
+
+Figurines with computers and smartphones are seen in front of the words "Cyber Attack", binary codes and the Ukrainian flag, in this illustration taken Feb 15, 2022. REUTERS/Dado Ruvic/Illustration
+OAKLAND: Alphabet's Google said it has seen Russian hackers well-known to law enforcement, including FancyBear, engaging in espionage, phishing campaigns and other attacks targeting Ukraine and its European allies in recent weeks.
+Google’s Threat Analysis Group, which focuses on disrupting computer hackers and issuing warnings about them to users, said in a blog post on Monday (Mar 7) that over the past two weeks Russian hacking unit FancyBear, also known as APT28, has been sending phishing emails to Ukrainian media company UkrNet.
+Russia denies using hackers to go after its foes. Phishing messages aim to steal account login information from users, so that hackers can breach a target's computers and online accounts.
+Google did not say whether any of the attacks had been successful.
+Ghostwriter/UNC1151, which Google described as a Belarusian threat actor, has been trying to steal account credentials through phishing attempts on Polish and Ukrainian government and military organizations.
+Ukrainian cybersecurity officials last month had said hackers from neighboring Belarus are targeting the private email addresses of Ukrainian military personnel "and related individuals."
+Google also said Mustang Panda, or Temp.Hex, which the company described as China-based, has been sending virus-laden attachments to "European entities" with file names such as "Situation at the EU borders with Ukraine.zip."
+Google described the effort as a deviation from Mustang Panda's standard focus on Southeast Asian targets.
+Russian and Ukrainian hackers have traded online attacks, such as defacing government websites, since Russia invaded Ukraine last month. Ukraine publicly has called on its hacker community to help protect infrastructure and conduct cyber spying missions against Russian troops.
+The Russian incursion into Ukraine is the biggest attack on a European state since World War Two.
+Russia calls its actions in Ukraine a "special operation" that it says is not designed to occupy territory but to destroy its southern neighbour's military capabilities and capture what it regards as dangerous nationalists.
+Advertisement
+
+      Also worth reading
+  
+Advertisement
+
+      CNA Sections
+  
+
+      About CNA
+  
+
+      Pressed for time? Stay informed with CNA's newsletters
+  
+
+      This service is not intended for persons residing in the E.U. By clicking subscribe, I agree to receive news updates and promotional material from Mediacorp and Mediacorp's partners. 
+  
+
+      Follow our news
+  
+ Copyright© Mediacorp 2022. Mediacorp Pte Ltd. All rights reserved. 
+
+      This browser is no longer supported
+  
+We know it's a hassle to switch browsers but we want your experience with CNA to be fast, secure and the best it can possibly be.

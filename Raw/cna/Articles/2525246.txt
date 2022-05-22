@@ -1,0 +1,86 @@
+
+      Commentary: Online sleuths saw the Russians coming to Ukraine. But they were ignored
+  
+
+
+      Follow our news
+  
+Main navigation
+
+
+      Commentary
+  
+
+
+      Follow our news
+  
+Advertisement
+Advertisement
+
+
+      Commentary
+  
+
+Was the military offensive really a surprise invasion? Mike Yeo looks at the online sleuths and intelligence firms who had picked up signals well before Russia moved in.
+Composite photos from satellite images and on-the-ground photos circulating on Tik Tok and Twitter show an attack was bound to happen.
+MELBOURNE: When Russia started raining ballistic and cruise missiles on targets across neighbouring Ukraine in the early hours of Thursday (Feb 24), all earlier predictions by high-profile commentators, foreign policy experts and politicians across the globe were scuttled.
+Many had, in the lead-up to Russia’s “special military operations”, confidently predicted that President Vladimir Putin would not send troops across the border and that the massing of Russian forces to the east, north and south of Ukraine was only a bluff. 
+"We see no indication in what President Putin says that he is going to go on the offensive," an official from President Emmanuel Macron’s office told reporters after the French leader and Putin spoke on the phone for nearly 90 minutes in mid-February.
+Former Australia foreign minister Alexander Downer also wrote in the Australian Financial Review in end-January that short of a “foolhardy mistake” by Putin, geography, history, economics and politics would combine to ensure there would be no war. 
+Even Ukrainian President Volodymyr Zelenskyy played down the threat on the eve of the Russian invasion, dismissing warnings from the increasingly alarmed Americans and chastising news outlets for creating unnecessary panic. 
+These were efforts to scare Ukraine to settle the status of the two so-called separatist republics in Donetsk and Luhansk in eastern Ukraine in Russia’s favour, they said. 
+Hindsight is 20/20 but on Friday, I told CNA 938 how we’ve forgotten that Russia had supplied, equipped, trained militants and then used these armies to carve out a chunk of Ukraine in 2014 that eventually led to Crimea’s annexation. 
+As events have since shown, the Americans, who maintained a near-constant presence of sophisticated intelligence gathering and surveillance aircraft watching the Russian build-up from over Ukraine, eastern Europe and the Black Sea, were right about Russian intentions. US president Joe Biden had said on Feb 16 that Russia had positioned 150,000 troops around Ukraine and warned that “an invasion remains distinctly possible”.
+But the Americans weren’t the only ones to have spotted the Russians coming thousands of miles away.
+A TWITTER MILITARY BUILD-UP
+Open-source investigators had also predicted the Russian invasion of Ukraine. The rise of the Internet, social media and commercially available satellite imagery have been a boon for open-source intelligence (OSINT) sleuths, who leverage openly available tools to seek out information on anything from criminal activities to military movements. 
+OSINT investigators – ranging from professional outfits like Bellingcat who has exposed Russian involvement in the Ukrainian conflict from as far back as 2014 to one-man operations digging into curious incidents purely for personal interest – picked up several aspects of a remarkably obvious Russian military mobilisation. 
+On Saturday (Feb 19) came the first distinct signs of movement of Russian military units from the eastern and northern military district on TikTok, appearing as close as Mazyr, Belarus, barely 50km away from Ukraine. 
+These included T-72, T-80 and T-90 main battle tanks, BMP-2 and -3 infantry fighting vehicles, along with 2S1, 2S3 and 2S19 mobile artillery pieces - vital components of a mobile armoured offensive that have been deployed in previous Russian offensive campaigns in Chechnya, Georgia and eastern Ukraine. 
+Usually based in Russia’s far east and Arctic Circle, they had travelled very long distances by train to western Russia and Belarus before being unloaded and moved to assembly areas throughout January and February. In many cases, unique unit markings and individual numbers on vehicles shown on multiple social media videos enabled investigators to verify the authenticity of these visuals and do more digging to uncover their prior movements across Russia in the dead of the winter. 
+Various support vital to any military operation also started appearing in the areas bordering Ukraine around this time, including new equipment added to Russia’s armed forces in recent years. 
+These included air defence and electronic warfare systems usually deployed to jam enemy communications and weaponry, as well as artillery units including armoured personnel carriers and engineering units employed to cross obstacles like rivers and minefields, build trenches and establish fighting positions. 
+Large numbers of helicopters were also deployed to advanced landing grounds in Grodno, Belarus, bordering Ukraine.
+They also saw the build-up continuing with Russian forces moving even closer to Ukraine despite the Russian government’s announcement on Feb 15 that joint exercises in Belarus had ended and Russian troops were returning to their barracks. 
+This led OSINT watchers to conclude that threat to Ukraine remained real, even as more analysts at the Atlantic Council and other think tanks concluded that this was yet another Russian bluff and that there would be no war.  
+We have Russians and motorists to thank, whose dashboards and mobile phone cameras recorded these images as they drove past, and who later uploaded these videos and images onto social media sites like Tiktok and Twitter. In some cases, the videos were geolocated to precise locations triangulated using unique landmarks seen.
+The massive military mobilisation, which by some estimates involved more than 100 Russian battalion tactical groups and numbered around 190,000 personnel, was also tracked by satellite imaging.
+In fact, it was a traffic jam on the highway from the Russian town of Belgorod to the Ukrainian border that appeared on Google Maps at 3 am Kyiv time last Thursday that signalled that the invasion was imminent, hours before President Putin made an official announcement. 
+These researchers were even able to track the movement of this “traffic jam” crossing the border into Ukraine.
+The time of the jam, and the fact that it started at a previously geolocated military assembly area packed with Russian tanks, infantry fighting vehicles, artillery and other hardware and ended right up at the Ukrainian border, only meant one thing. 
+And true enough, the missiles started falling on Ukraine less than two hours later. 
+A RESPONSE IS FINALLY COMING TOGETHER
+But while these images were strong evidence showing the Russian offensive was likely a cold, calculated decision planned and executed over months, the initial lacklustre international response suggested such OSINT may not have informed national responses.
+As the Russians began their operations, the Biden Administration warned that an invasion of Ukraine would trigger even tougher Western sanctions on Russia. 
+Yet many European countries wavered, as they initially sought to exclude pet sectors to protect their own interests with Russia. Italy wanted to exclude luxury goods, Belgium hoped to exclude diamonds. There was also some reluctance to target Russian banks and energy supplies at first. 
+However, the expansiveness of the Russian invasion, the bravery of Ukrainians and President Zelenskyy and the 24/7 media cycle have spurred the European Union to coalesce around tougher measures, including booting Russia off SWIFT, the dominant system for global financial transactions worldwide used by more than 11,000 financial institutions in more than 200 countries. 
+NATO is also stepping up assistance. The US, together with the Baltic republics, the United Kingdom, Turkey and Canada, have since sent weapons to Ukraine including anti-tank and anti-aircraft missiles, ammunition and in Turkey’s case, armed drones. Since Russia attacked, other nations have stepped in with Poland, the Czech Republic and Slovakia supplying or pledging direct military aid to Ukraine. 
+This latest episode is just the latest example of technology levelling the playing field. Much open-source information posted online about Russia’s military movements could have been identified, verified and informed NATO plans to deter further actions against Ukraine. Instead, they got scarcely any notice save from think tanks like Lowy Institute. 
+Had national leaders and experts proclaiming there would be no war looked at the evidence instead of trusting their gut feel about Putin’s intentions before making their assessments, they might not have gotten it so badly wrong.
+To paraphrase the popular saying, if satellite photos and TikTok videos show that if it looks, walks and quacks like a duck, it is unlikely to be a chicken. 
+Mike Yeo also writes for US-based defence publication Defense News. He is based in Melbourne.
+Advertisement
+
+      Also worth reading
+  
+Advertisement
+
+      CNA Sections
+  
+
+      About CNA
+  
+
+      Pressed for time? Stay informed with CNA's newsletters
+  
+
+      This service is not intended for persons residing in the E.U. By clicking subscribe, I agree to receive news updates and promotional material from Mediacorp and Mediacorp's partners. 
+  
+
+      Follow our news
+  
+ Copyright© Mediacorp 2022. Mediacorp Pte Ltd. All rights reserved. 
+
+      This browser is no longer supported
+  
+We know it's a hassle to switch browsers but we want your experience with CNA to be fast, secure and the best it can possibly be.

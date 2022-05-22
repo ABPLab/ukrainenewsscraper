@@ -1,0 +1,72 @@
+
+      US warned firms about Russia's Kaspersky software day after invasion: Report
+  
+
+
+      Follow our news
+  
+Main navigation
+
+
+      Business
+  
+
+
+      Follow our news
+  
+Advertisement
+Advertisement
+
+
+      Business
+  
+
+FILE PHOTO: People walk next to Russian Kaspersky stand during the GSMA's 2022 Mobile World Congress (MWC), in Barcelona, Spain, March 2, 2022. REUTERS/ Albert Gea/File Photo
+The US government began privately warning some American companies the day after Russia invaded Ukraine that Moscow could manipulate software designed by Russian cybersecurity company Kaspersky to cause harm, according to a senior US official and two people familiar with the matter.
+The classified briefings are part of Washington's broader strategy to prepare providers of critical infrastructure such as water, telecoms and energy for potential Russian intrusions.
+President Joe Biden said last week that sanctions imposed on Russia for its Feb 24 attack on Ukraine could result in a backlash, including cyber disruptions, but the White House did not offer specifics.
+"The risk calculation has changed with the Ukraine conflict," said the senior US official about Kaspersky's software. "It has increased."
+Kaspersky, one of the cybersecurity industry's most popular anti-virus software makers, is headquartered in Moscow and was founded by Eugene Kaspersky, who US officials describe as a former Russian intelligence officer.
+A Kaspersky spokeswoman said in a statement that the briefings about purported risks of Kaspersky software would be "further damaging" to Kaspersky’s reputation "without giving the company the opportunity to respond directly to such concerns" and that it "is not appropriate or just."
+The senior US official said Kaspersky's Russia-based staff could be coerced into providing or helping establish remote access into their customers' computers by Russian law enforcement or intelligence agencies.
+Eugene Kaspersky, according to his company website, graduated from the Institute of Cryptography, Telecommunications and Computer Science, which the Soviet KGB previously administered. The company spokeswoman said that Kaspersky worked as a "software engineer" during military service.
+The Russian cybersecurity firm, which has an office in the United States, lists partnerships with Microsoft, Intel and IBM on its website. Microsoft declined to comment. Intel and IBM did not respond to requests for comment.
+On Mar 25, the Federal Communications Commission added Kaspersky to its list of communications equipment and service providers deemed threats to US national security.
+It is not the first time Washington has said Kaspersky could be influenced by the Kremlin.
+The Trump administration spent months banning Kaspersky from government systems and warning numerous companies to not use the software in 2017 and 2018.
+US security agencies conducted a series of similar cybersecurity briefings surrounding the Trump ban. The content of those meetings four years ago was comparable to the new briefings, said one of the people familiar with the matter.
+Over the years, Kaspersky has consistently denied wrongdoing or any secret partnership with Russian intelligence.
+It is unclear whether a specific incident or piece of new intelligence led to the security briefings. The senior official declined to comment on classified information.
+Until now no US or allied intelligence agency has ever offered direct, public proof of a backdoor in Kaspersky software.
+Following the Trump decision, Kaspersky opened a series of transparency centres, where it says partners can review its code to check for malicious activity. A company blog post at the time explained the goal was to build trust with customers after the US accusations.
+But the US official said the transparency centers are not "even a fig leaf" because they do not address the US government's concern.
+"Moscow software engineers handle the [software] updates, that's where the risk comes," they said. "They can send malicious commands through the updaters and that comes from Russia."
+Cybersecurity experts say that because of how anti-virus software normally functions on computers where it is installed, it requires a deep level of control to discovery malware. This makes anti-virus software an inherently advantageous channel to conduct espionage.
+In addition, Kaspersky's products are also sometimes sold under white label sales agreements. This means the software can be packaged and renamed in commercial deals by information technology contractors, making their origin difficult to immediately determine.
+While not referring to Kaspersky by name, Britain's cybersecurity centre on Tuesday said organisations providing services related to Ukraine or critical infrastructure should reconsider the risk associated with using Russian computer technology in their supply chains.
+"We have no evidence that the Russian state intends to suborn Russian commercial products and services to cause damage to UK interests, but the absence of evidence is not evidence of absence," the National Cyber Security Centre said in a blog post.
+Advertisement
+
+      Also worth reading
+  
+Advertisement
+
+      CNA Sections
+  
+
+      About CNA
+  
+
+      Pressed for time? Stay informed with CNA's newsletters
+  
+
+      This service is not intended for persons residing in the E.U. By clicking subscribe, I agree to receive news updates and promotional material from Mediacorp and Mediacorp's partners. 
+  
+
+      Follow our news
+  
+ Copyright© Mediacorp 2022. Mediacorp Pte Ltd. All rights reserved. 
+
+      This browser is no longer supported
+  
+We know it's a hassle to switch browsers but we want your experience with CNA to be fast, secure and the best it can possibly be.
